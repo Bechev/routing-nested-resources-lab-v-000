@@ -33,7 +33,7 @@ describe "songs", type:  :feature do
   #       expect(page).to have_text("Song not found")
   #     end
   #   end
-  end
+  # end
   describe "/songs/:id" do
 
     it "links to the artist" do
